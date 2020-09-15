@@ -24,11 +24,11 @@ ___
 
 Vous pouvez ajouter un fichier sur l'onglet Médias.
 
-![image](./resources/media.png)
+![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/media.png)
 
 Une fois un média ajouté vous pouvez le redimensionner.
 
-![image](./resources/dimension.png)
+![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/dimension.png)
 
 ___
 
@@ -36,4 +36,4 @@ ___
 
 Par défaut les images s'organisent dans des dossiers par date. Il faudra utiliser une extension pour avoir une meilleur organisation avec la création de dossier personnalisé.
 
-![image](./resources/organisation-media.png)
+![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/organisation-media.png)

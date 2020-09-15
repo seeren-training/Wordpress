@@ -10,7 +10,7 @@ ___
 Il est possible de choisir un modèle de page ou d'article.
 
 
-![image](./resources/model.png)
+![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/model.png)
 
 Les modèles dépendent de ceux que propose le thème.
 
@@ -24,5 +24,5 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Crez des pages en choisissant le modèle et l'ordre.
+Créez des pages en choisissant le modèle et l'ordre.
 ___

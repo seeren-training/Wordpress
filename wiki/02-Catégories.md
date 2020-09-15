@@ -15,19 +15,19 @@ Les catégories permettent de regrouper de manière pratique les articles simila
 
 ### 🏷️ **Gérer**
 
-Dans le menu `Articles` vous pouvez géer vos catégories. Vous pouvez créer, supprimer une catégorie et en choisir une parente.
+Dans le menu `Articles` vous pouvez gérer vos catégories. Vous pouvez créer, supprimer une catégorie et en choisir une parente.
 
-![image](./resources/category.png)
+![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/category.png)
 
 Quand vous éditez un article vous pouvez lui assigner des catégories.
 
-![image](./resources/article-category.png)
+![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/article-category.png)
 
 ### 🏷️ **Afficher**
 
-La catégorie est présent dans le widget qui lsite les catégories et possède une page dédiée.
+La catégorie est présent dans le widget qui liste les catégories et possède une page dédiée.
 
-![image](./resources/category-display.png)
+![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/category-display.png)
 
 ___
 
@@ -37,15 +37,15 @@ Les étiquettes offrent un moyen utile de regrouper des articles similaires et d
 
 ### 🏷️ **Gérer**
 
-Leur gestion est similaire aux catégories mais leur obejctif est différent. Quand vous éditez un article vous pouvez lui assigner des mot-clefs.
+Leur gestion est similaire aux catégories mais leur objectif est différent. Quand vous éditez un article vous pouvez lui assigner des mot-clefs.
 
-![image](./resources/tag.png)
+![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/tag.png)
 
 ### 🏷️ **Afficher**
 
 Les mot-clefs sont présents dans la liste des tags d'un article.
 
-![image](./resources/tag-display.png)
+![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/tag-display.png)
 
 ___
 
