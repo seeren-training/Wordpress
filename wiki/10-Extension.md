@@ -3,6 +3,7 @@
 * 🔖 **Définition**
 * 🔖 **Activer**
 * 🔖 **Exemple**
+* 🔖 **Thèmes**
 
 ___
 
@@ -38,5 +39,17 @@ ___
 👨🏻‍💻 Manipulation
 
 Créez des dossier pour organiser vos médias.
+
+___
+
+## 📑 Thèmes
+
+Les thèmes vont définir l'aparence de votre site et peuvent également ajouter des fonctonnalité. Ils se téléchargent et s'activent de la même fçon que les extensions.
+
+___
+
+👨🏻‍💻 Manipulation
+
+Cherchez puis activez un thème qui correspond à vos envies graphiques.
 
 ___
