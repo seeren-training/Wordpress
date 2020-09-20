@@ -22,7 +22,6 @@ Les blocs sont des composants d’ajout de contenu dans le nouvel éditeur de bl
 
 Les différents blocs sont ordonnée par catégories, permettant de facilement identifier l'utilisation d'un bloc.
 
-
 ### 🏷️ **Mode**
 
 Vous pouvez accéder au code source des blocs pour éditer en HTML votre contenu.
