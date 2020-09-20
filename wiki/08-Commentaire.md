@@ -25,7 +25,7 @@ ___
 
 ## 📑 Modérer
 
-Quand un commentaire est fomulé par un visiteur ou un membre il est en file d'attente de modération, vous pouvez effectuer différentes actions sur ce dernier.
+Quand un commentaire est formulé par un visiteur ou un membre il est en file d'attente de modération, vous pouvez effectuer différentes actions sur ce dernier.
 
 ___
 

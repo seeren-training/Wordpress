@@ -9,14 +9,13 @@ ___
 
 ## 📑 Définition
 
-Les extensions permettent d'ajoter des fonctionnité au CMS, comme l'envoie d'emailing, le référenement, l'organisation de resources. Elles sont disponible dans le menu `Extensions`
+Les extensions permettent d’ajouter des fonctionnalités au CMS, comme l'envoie de mailing, le référencement, l'organisation de ressources. Elles sont disponible dans le menu `Extensions`
 
 ___
 
 ## 📑 Activer
 
-La première étape consite à recherche une extension par mot clef qui poura vous être utile? Après avoir regardé ses évaluations et sa fiche descriptive il faut la télécharger puis l'activer.
-ossèdent un profil.
+La première étape consiste à recherche une extension par mot clef qui pourra vous être utile? Après avoir regardé ses évaluations et sa fiche descriptive il faut la télécharger puis l'activer.
 
 ![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/extension.PNG)
 
@@ -30,7 +29,7 @@ ___
 
 ## 📑 Exemple
 
-Nous allons observer l'ajout de fonctonnalité du plugin installé. En allant sur les média nous pouvons nous rendre compte que la création de dossier est maintenant disponible.
+Nous allons observer l'ajout des fonctionnalités du plugin installé. En allant sur les média nous pouvons nous rendre compte que la création de dossier est maintenant disponible.
 
 ![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/media-floder.png)
 
@@ -44,7 +43,7 @@ ___
 
 ## 📑 Thèmes
 
-Les thèmes vont définir l'aparence de votre site et peuvent également ajouter des fonctonnalité. Ils se téléchargent et s'activent de la même fçon que les extensions.
+Les thèmes vont définir l’apparence de votre site et peuvent également ajouter des fonctionnalités. Ils se téléchargent et s'activent de la même façon que les extensions.
 
 ___
 

@@ -2,7 +2,7 @@
 
 * 🔖 **Profil**
 * 🔖 **Utilisateurs**
-* 🔖 **Roles**
+* 🔖 **Rôles**
 
 ___
 
@@ -16,13 +16,13 @@ ___
 
 ## 📑 Utilisateurs
 
-Il est possible de créer des utilisateurs qui pourant s'identifier sur la page de login et auront accès aux fonctionnalités en fonction de leur role.
+Il est possible de créer des utilisateurs qui peuvent s'identifier sur la page de login et auront accès aux fonctionnalités en fonction de leur rôle.
 
 ![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/utilisateur.png)
 
 ___
 
-## 📑 Roles
+## 📑 Rôles
 
 Cinq rôles existent par défaut dans WordPress : `Administrateur`, `Éditeur`, `Auteur`, `Contributeur` et `Abonné`. Chaque rôle peut effectuer un certain nombre d'actions qui sont appelées “capacités” dans WordPress. Permission ou droit utilisateur sont des synonymes du terme capacité.
 

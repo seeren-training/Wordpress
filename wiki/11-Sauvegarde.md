@@ -22,7 +22,7 @@ Il est possible de créer une sauvegarde de votre base en utilisant PhpMyAdmin o
 
 #### **PhpMyAdmin**
 
-Cliquez sur votre base de données puis sur l'onglet `Export`. COnservez les options par défaut puis lciquez sur `Exporter`. Un fichier avec l'extension SQL regroupe les informations des tables de votre base de données. Déplacez le fichier SQL dans votre dossier de sauvegarde.
+Cliquez sur votre base de données puis sur l'onglet `Export`. Conservez les options par défaut puis lciquez sur `Exporter`. Un fichier avec l'extension SQL regroupe les informations des tables de votre base de données. Déplacez le fichier SQL dans votre dossier de sauvegarde.
 
 #### **Wordpress**
 
