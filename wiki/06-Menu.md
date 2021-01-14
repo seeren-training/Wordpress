@@ -1,5 +1,4 @@
-# [Menu](https://wordpress.com/fr/support/menus/)
-
+# Menu
 * 🔖 **Créer**
 * 🔖 **Utiliser**
 * 🔖 **Widget**

@@ -1,5 +1,4 @@
-# [Pages](https://wordpress.com/fr/support/pages/)
-
+# Pages
 * 🔖 **Modèle**
 * 🔖 **Ordre**
 

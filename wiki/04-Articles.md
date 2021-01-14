@@ -1,5 +1,4 @@
-# [Articles](https://wordpress.com/fr/support/articles/)
-
+# Articles
 * 🔖 **Saisie**
 * 🔖 **Catégories**
 * 🔖 **Format**

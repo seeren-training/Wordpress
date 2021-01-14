@@ -1,4 +1,4 @@
-# [Edition](https://wordpress.com/fr/support/editeur-wordpress/)
+# Edition
 
 * 🔖 **Gutenberg**
 * 🔖 **Les blocs**
