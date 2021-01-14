@@ -2,12 +2,11 @@
 
 ## Durée
 
-14 heures.
+14 heures
 
 ## Public concerné
 
-Architectes, chefs de projets, acteurs de projets, directeurs de projets ou toute personne
-devant intervenir dans un projet Agile, en tant que contributeur ou manager.
+Webmasters, responsables de communication, toute personne devant créer ou maintenir un blog ou un site Web WordPress.
 
 ___
 
