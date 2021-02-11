@@ -33,23 +33,27 @@ Wordpress s'exécute sur un serveur interprétante le langage PHP et utilisant u
 
 Nous allons installer un serveur local pour satisfaire ses prérequis. Il y a plusieurs distributions équivalentes, xampp, wampp, lampp, mampp. Je conseil xampp qui est simple et efficace.
 
+[Xampp server](https://www.apachefriends.org/fr/index.html)
+
 ___
 
 👨🏻‍💻 Manipulation
 
-Installer [xampp server](https://www.apachefriends.org/fr/index.html).
+Installer `xampp`.
 
 ___
 
-Le serveur s'arrête ou se démarre facilement avec les touches `Start/Stop`, les services à activer sont `Apache` pour interpréter PHP et `MySql` pour utiliser les bases de données. En démarrant les services, vous pouvez vous rendre à l'adresse [http://localhost/](http://localhost/) de votre navigateur. Sur un domaine localhost vous desservez les fichiers qui se trouvent dans le dossier `C:\xampp\htdocs`. C'est dans ce dossier que vous devrez positionner Wordpress.
+Le serveur s'arrête ou se démarre facilement avec les touches `Start/Stop`, les services à activer sont Apache pour interpréter PHP et MySql pour utiliser les bases de données. En démarrant les services, vous pouvez vous rendre à l'adresse `http://localhost/` de votre navigateur. Sur un domaine localhost vous desservez les fichiers qui se trouvent dans le dossier `C:\xampp\htdocs`. C'est dans ce dossier que vous devrez positionner Wordpress.
 
 ### 🏷️ **Wordpress**
 
-Pour installer Wordpress il faut dans un premier temps télécharger le code source à l'adresse [https://fr.wordpress.org/download/](https://fr.wordpress.org/download/). Puis vous devez extraire le dossier archivé dans le répertoire cité (`C:\xampp\htdocs`). Ceci était fait, vous pouvez renommer le dossier pour qu'il correspond à un de vos futurs projet!
+Pour installer Wordpress il faut dans un premier temps télécharger le code source puis vous devez extraire le dossier archivé dans le répertoire cité. Ceci était fait, vous pouvez renommer le dossier pour qu'il correspond à un de vos futurs projet!
+
+[Wordpress](https://fr.wordpress.org/download/)
 
 ### 🏷️ **Base de données**
 
-Pour fonctionner, Wordpress a besoin d'une base de données existante. Nous possédons un utilitaire pour en créer une. Cet utilitaire s'appe PhpMyAdmin, vous pouvez y avoir accès en vous rendant à l’adresse [http://localhost/phpmyadmin](http://localhost/phpmyadmin).
+Pour fonctionner, Wordpress a besoin d'une base de données existante. Nous possédons un utilitaire pour en créer une. Cet utilitaire s'appe PhpMyAdmin, vous pouvez y avoir accès en vous rendant à l’adresse `http://localhost/phpmyadmin`.
 
 Une fois sur la page d'accueil de PhpMyAdmin, nous nous rendrons sur l'onglet Base de données puis nous créerons une base de donnée en spécifiant un nom.
 
@@ -57,7 +61,7 @@ Une fois sur la page d'accueil de PhpMyAdmin, nous nous rendrons sur l'onglet Ba
 
 Tous les prérequis sont satisfaits, nous pouvons demander l'initialisation de Wordpress.
 
-En vous rendant à l'adresse [http://localhost/mon-site/index.php](http://localhost/mon-site/index.php) vous serez dirigé vers la page d'initialisation du site. Vous devez renseigner plusieurs informations, le nom du site, votre nom d'utilisateur, le mot de passe de connexion. Enfin il vous est demandé les informations de connexion à la base de données, pour un serveur fraichement installé, le nom d'utilisateur est `root` et le mt de passe est vierge.
+En vous rendant à l'adresse `http://localhost/mon-site/index.php` vous serez dirigé vers la page d'initialisation du site. Vous devez renseigner plusieurs informations, le nom du site, votre nom d'utilisateur, le mot de passe de connexion. Enfin il vous est demandé les informations de connexion à la base de données, pour un serveur fraichement installé, le nom d'utilisateur est `root` et le mt de passe est vierge.
 
 Laissez vous guider c'est parti!
 
@@ -71,8 +75,9 @@ ___
 
 ## 📑 Hébergé
 
-Votre projet devra être hébergé chez un hébergeur pour être visible par tous. Chez un hébergeur il faudra souscrire à une formule avec nom de domaine et hébergement, qui correspond à un espace disque sur lequel votre nom de domaine pointe. Il y a de nombreux hébergeurs comme par exemple [ovh](https://www.ovh.com/fr/hebergement-web/site/wordpress.xml).
+Votre projet devra être hébergé chez un hébergeur pour être visible par tous. Chez un hébergeur il faudra souscrire à une formule avec nom de domaine et hébergement, qui correspond à un espace disque sur lequel votre nom de domaine pointe. Il y a de nombreux hébergeurs comme par exemple `ovh`.
 
+[OVH](https://www.ovh.com/fr/hebergement-web/site/wordpress.xml)
 
 ![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/ovh.png)
 
@@ -87,7 +92,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Créer un compte chez un hébergeur payant ou chez un hébergeur gratuit comme [alwaysdata](https://www.alwaysdata.com/fr/)
+Créer un compte chez un hébergeur payant ou chez un hébergeur gratuit comme `alwaysdata`.
 
 ___
 
@@ -97,8 +102,7 @@ Il est temps de faire un premier tour de Wordpress.
 
 ### 🏷️ **Connection**
 
-Votre initialisation du projet terminé, vous pouvez vous connecter à l'adresse suivante [http://localhost/mon-site/wp-login.php](http://localhost/mon-site/wp-login.php).
-
+Votre initialisation du projet terminé, vous pouvez vous connecter à l'adresse suivante `http://localhost/mon-site/wp-login.php`.
 
 ![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/login.png)
 
@@ -120,13 +124,10 @@ Vous pouvez demander aux moteur de recherche d'indexer ou pas votre site.
 
 Vous pouvez choisir la structure de vos url en réglant les `permaliens`.
 
-
 ![image](https://raw.githubusercontent.com/seeren-training/Wordpress/master/wiki/resources/permalien.png)
 
 ___
 
 👨🏻‍💻 Manipulation
 
-Réglez votre permalien
-
-___
+Réglez votre permalien.

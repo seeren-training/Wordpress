@@ -23,4 +23,3 @@ ___
 👨🏻‍💻 Manipulation
 
 Créez des pages en choisissant le modèle et l'ordre.
-___

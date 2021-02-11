@@ -103,5 +103,3 @@ ___
 👨🏻‍💻 Manipulation
 
 Créer des permalien qui correspondent à un référencement ciblé.
-
-___

@@ -51,6 +51,4 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Créer des catégories et des mot-clefs
-
-___
+Créer des catégories et des mot-clefs.
